@@ -4,7 +4,7 @@
 Using Tableau Public and Jupyter Notebook to analyze and create visualization of NYC CitiBike sharing data from August, 2019. 
 
 ## Analysis Overview
-Link to [Tableau Public Dashboard]([url](https://public.tableau.com/app/profile/ash3758/viz/NYCCitiBikeAnalysis_16536068955300/Story1?publish=yes))
+[Link to dashboard](https://public.tableau.com/app/profile/ash3758/viz/NYCCitiBikeAnalysis_16536068955300/Story1?publish=yes)
 
 The framework for this project was to analyze bikeshare data from CitiBike in New York City to convince stakeholders that a bike-sharing program in Des Moines is a solid business proposal. The detailed bike trip analysis is to to solidify the proposal to present to stakeholders. 
 
